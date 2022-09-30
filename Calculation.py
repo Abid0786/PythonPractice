@@ -10,3 +10,4 @@ print('Hello',6)
     
 c=Calculation(2,4)
 c.addition()
+print('Hello')
